@@ -1,6 +1,6 @@
 # hello-world
 
-# **Table of Content**
+# **Table of Contents**
 * Project Title
 * Description
 * Code
