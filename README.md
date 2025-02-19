@@ -1,7 +1,7 @@
 # hello-world
 
 # **Table of Contents**
-* *Project Title*
+* **Project Title**
 * Description
 * Code
 * Video
