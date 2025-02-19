@@ -10,7 +10,7 @@
 _Sample Project_
 
 # **Description**
-_This is a sample of a coding project._
+_This is a sample of a code._
 
 # **Code**
 
