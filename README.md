@@ -24,4 +24,5 @@ _This is a sample of a coding project_
 ### miles = kilometers * conv_fac
 ### print('%0.2f kilometers is equal to %0.2f miles' %(kilometers,miles))
 
-[Video] (https://www.youtube.com/watch?v=DLn3jOsNRVE)
+# Video
+Watch this [Video](https://www.youtube.com/watch?v=DLn3jOsNRVE)
